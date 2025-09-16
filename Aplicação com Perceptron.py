@@ -99,14 +99,15 @@ print("Teste de generalização")
 neuronio, saida_0 = teste_generalização(neuronio, padrao_teste_0, saida0)
 print(neuronio, "saida0 = ", saida_0)
 neuronio, saida_1 = teste_generalização(neuronio, padrao_teste_1, saida1)
-print(neuronio, "saida0 = ", saida_1)
+print(neuronio, "saida1 = ", saida_1)
 neuronio, saida_0 = teste_generalização(neuronio, padrao_teste_2, saida0)
 print(neuronio, "saida0 = ", saida_0)
 neuronio, saida_1 = teste_generalização(neuronio, padrao_teste_3, saida1)
-print(neuronio, "saida0 = ", saida_1)
+print(neuronio, "saida1 = ", saida_1)
 neuronio, saida_0 = teste_generalização(neuronio, padrao_teste_4, saida0)
 print(neuronio, "saida0 = ", saida_0)
 neuronio, saida_1 = teste_generalização(neuronio, padrao_teste_5, saida1)
-print(neuronio, "saida0 = ", saida_1)
+print(neuronio, "saida1 = ", saida_1)
+
 
 
